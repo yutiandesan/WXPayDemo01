@@ -1,0 +1,17 @@
+//
+//  WXPayDemo-Prefix.pch
+//  WXPayDemo
+//
+//  Created by 叶华英 on 15/7/13.
+//  Copyright (c) 2015年 liuhuan. All rights reserved.
+//
+
+#ifndef WXPayDemo_WXPayDemo_Prefix_pch
+#define WXPayDemo_WXPayDemo_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import "Defines.h"
+#import "WXApi.h"
+#import "lhSharePay.h"
+
+#endif
